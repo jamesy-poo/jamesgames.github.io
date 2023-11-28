@@ -12,14 +12,17 @@ navbar_entries:
     url: updates
 
   - title: new project
-    url: https://calculatorgames.github.io/simplegimes
+    url: https://bighummus69.github.io/simplegimes
 
 
 project_entries:
   - title: Vote for a game
     url: https://forms.gle/bBiEEknwZVxPzw5x7
     desc: Vote for a game
-  
+
+  - title: ProXy Sites
+    url: prx
+    desc: A list of proxy sites.
   
   - title: 1v1.lol 
     url: IvI
@@ -45,7 +48,7 @@ project_entries:
     desc: One of the most BALLIN games here. (help me)
 
   - title: Basket Random
-    url: https://calculatorgames.github.io/randombasket
+    url: https://bighummus69.github.io/randombasket
     desc: Play basketball except cartoon style.
 
   - title: Bloons Tower Defense
@@ -60,7 +63,9 @@ project_entries:
     url: actual/bitlife/index.html
     desc: Live a life because you don't have one.
 
-   
+  - title: Big Tower Tiny Square
+    url: tower
+    desc: Play a a block trying not to fall through holes.
 
   - title: Chrome Dino
     url: actual/extinct/index.html
@@ -153,7 +158,7 @@ old_project_entries:
     desc: Make your own game site with these instructions made by me.
 
   - title: NEW GAME SITE
-    url: https://calculatorgames.github.io/simplegimes
+    url: https://bighummus69.github.io/simplegimes
     desc: A sample game site which is designed to be easy to deploy (IN PROGRESS)
 
 
