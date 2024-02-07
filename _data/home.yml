@@ -59,6 +59,10 @@ project_entries:
     url: actual/bloonstd2/index.html
     desc: you'll never guess what comes before it
 
+  - title: Bloons Tower Defense 3
+    url: tdb3
+    desc: BTD except harder
+
   - title: Bitlife
     url: actual/bitlife/index.html
     desc: Live a life because you don't have one.
@@ -86,8 +90,12 @@ project_entries:
     desc: block game 1.5 in your browser
 
   - title: Eaglercraft 1.8
-    url: actual/e18/index.html
-    desc: block game 1.8 in your browser (only supports servers, no singleplayer)
+    url: e18
+    desc: block game 1.8 in your browser (u20 supports singleplayer now :))
+    
+  - title: Fireboy and Water Girl Forest Temple
+    url: fireandwater
+    desc: Play as two elements trying to do stuff
 
   - title: FNAF 1
     url: f1
@@ -99,10 +107,12 @@ project_entries:
 
   - title: FNAF 3
     url: f3
+    desc: Try not to get jumpscared 3
     
   - title: FNAF 4
     url: f4
-
+    desc: Play as a kid in a bed getting hunted by furries.
+  
   - title: FNAW
     url: actual/FNAW/fnaw.html
     desc: Run from erasers. This was a personal favorite for my friends.
